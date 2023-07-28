@@ -5,7 +5,7 @@
 ![Desktop - 1](https://github.com/alinatussupova/movies_rec_system/assets/102950421/f315e071-7b1f-4361-bdd7-2016c8b0952b)
 
 <p>I developed a movie recommendation system, based on each filtering, using data science and machine learning techniques.</p>
-<p>I loaded the data, using Pandas, from that data created the dataset, and built the trainset. Based on this trainset, I trained the ML model and generated the predictions.</p>
+<p>I loaded the data, using Pandas. From that data created the dataset, and built the trainset. Based on this trainset, I trained the ML model and generated the predictions.</p>
 <ul><strong>Technologies used:</strong></ul>
 <li>Python</li>
 <li>Pandas</li>
